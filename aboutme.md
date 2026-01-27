@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About this blog
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Niels Debonne, a Food and Agriculture researcher and policy officer for Milieudefensie (Friends of the Earth Netherlands). This blog provides a home for deep-dives, technical details, side-tracks and other material that I find fascinating.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+(add a disclaimer)
 
 ### My story
 
