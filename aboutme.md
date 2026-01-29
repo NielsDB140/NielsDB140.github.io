@@ -10,7 +10,9 @@ Blogposts are not necessarily the exact position of Milieudefensie. I am a human
 **About me**
 
 I finished a [PhD](https://research.vu.nl/ws/portalfiles/portal/121567975/N%20%20Debonne%20-%20thesis.pdf) on how the shifting of power in global agriculture is changing land use and sustainability at VU Amsterdam. After that, I stuck around at the university, doing a postdoc on the sustainability of European agriculture, and then becoming an assistant professor. 
+
 In my work as a scientist, I was confronted by the urgency and injustices of the climate crisis. I took an active role in the climate movement, at first by [organizing fellow scientists](https://www.scientistrebellion.nl/index.php/en/scientist-rebellion-nederland-english/). 
+
 After some time, I switched careers to focus entirely on food, agriculture, and the climate crisis. In my current work at Milieudefensie, I work to hold agribusinesses and food giants accountable for their climate impacts. 
 
 Additional work on [Google Scholar](https://scholar.google.com/citations?user=7Fc58pkAAAAJ&hl=nl)
