@@ -23,7 +23,7 @@ description: 'A blog about climate stuff which does not fit on a banner'
 navbar-links:
   #About Me: "aboutme"
   Blogs:
-  About: "aboutme.md"
+  About: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
