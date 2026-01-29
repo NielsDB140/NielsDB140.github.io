@@ -3,10 +3,6 @@ layout: page
 title: About this blog
 ---
 
-I am Niels Debonne, a Food and Agriculture researcher and policy officer for Milieudefensie (Friends of the Earth Netherlands). This blog provides a home for deep-dives, technical details, side-tracks and other material that I find fascinating.
+I blog about the food system and the climate crisis. I blog to make sense of this fascinating, wide-ranging issue, and to give a home to the many diversions and technicalities that I encounter in my job as a researcher for Milieudefensie (Friends of the Earth Netherlands).
 
-(add a disclaimer)
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Blogposts are not necessarily the exact position of Milieudefensie. I am a human, who makes mistakes and omissions. Feel free to point me to these. 
