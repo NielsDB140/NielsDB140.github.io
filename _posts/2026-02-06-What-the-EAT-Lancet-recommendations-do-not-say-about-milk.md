@@ -9,5 +9,5 @@ Since its conception in 2019, the Planetary Health Diet (PHD) by the EAT-Lancet 
 
 --- 
 ## Footnotes
-[^1]: test
-[^2]: test
+[^1]: [EAT-Lancet Commission 2025 report](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01201-2/fulltext), Page 5
+[^2]: Crippa et al. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions. [Nature Food](https://www.nature.com/articles/s43016-021-00225-9)
