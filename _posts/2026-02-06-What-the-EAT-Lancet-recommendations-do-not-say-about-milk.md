@@ -6,6 +6,7 @@ published: false
 ---
 
 **A health diet with an environmental bycatch**
+
 Since its conception in 2019, the Planetary Health Diet (PHD) by the EAT-Lancet Commission has emerged as the ultimate yardstick of dietary advice. In a context where 27% of annual deaths worldwide are caused by unhealthy eating[^1], and 30% of greenhouse gas emissions are caused by the food system[^2], scientifically rigorous guidance on healthy and sustainable food is more urgent than ever. 
 
 However, despite its confusion-inducing name, the PHD was not developed or optimized around sustainability or planetary boundaries. It was created by a team of world-leading *health* experts, and the resulting dietary recommendations are only derived from direct impacts on *human health* (and not from impacts on the environment). The guiding principle in the development of the PHD was the minimization of illness and mortality, not the minimization of emissions, pollution and land use.
@@ -17,6 +18,7 @@ This is largely driven by the fact that the most unsustainable food group, red m
 In the food system, the livestock industry is the main driver of global heating, deforestation, pollution and biodiversity collapse. Therefore, for red meat, health and sustainability go hand in hand, and the point that the PHD is optimized around health and not around sustainability may amount to pedantry.
 
 **Milk and the limit of the health-sustainability exchangeability**
+
 The story becomes less trivial for milk. The recommended daily intake is 250 g/day with a range of 0-500 g/day. This means that a life without milk can be healthy, but consuming up to a half kilogram per day can be too[^4]. A glass of milk can be part of a healthy diet.
 
 However, from an environmental perspective, the lower end of this 0-500g range will undoubtedly be preferable in most contexts. 
@@ -29,6 +31,14 @@ Although recent and reliable data is missing, a rough analysis[^8] shows that on
 
 <img src="/assets/img/Average_milk_consumption.png" title="Countries where average milk consumption per capita exceeds 500 g/day" alt="Countries where average milk consumption per capita exceeds 500 g/day." style="display: block; margin: auto auto auto 0;" />
 
+This severely downplays the potential of a shift away from dairy. By EAT-Lancet’s own calculations, the global dairy herd would shrink by only 4%[^10]. Further reductions are certainly possible, but because these would be health-neutral, they are not considered in the Commission’s analysis (although they are hinted at as a theoretical mitigation option on page 18). 
+
+**What does this imply?**
+First, while milk can be part of a healthy diet, it remains a highly unsustainable method for protein supply[^11]. Those stating that the PHD proves that milk is a necessary part of a sustainable diet, or that the PHD demonstrates a global shortage of milk, are overstretching the findings of the EAT-Lancet Commission (and might be trying to sell milk). 
+
+Second, the PHD is better for the environment, but *better* is not the same as *sufficient*. The climate crisis and the collapse of global ecosystems require urgent and drastic measures to avoid tipping points and to maintain a liveable planet. Whether it's the recent science on the [plausible imminence](https://www.theguardian.com/environment/2025/aug/28/collapse-critical-atlantic-current-amoc-no-longer-low-likelihood-study) of an AMOC collapse, the destruction of lives and livelihoods by [massive floods](https://www.worldweatherattribution.org/la-nina-climate-change-high-exposure-and-vulnerability-combined-led-to-devastating-floods-in-parts-of-southern-africa/) last month in Southern Africa, or the simple fact that we are seemingly speedrunning towards 1.5°C of global heathing: it is clear that we require drastic measures. Steering milk consumption towards the lower end of the 0 – 500 g/day range is more in tune with the speed and scale of action required[^12]. 
+
+
 --- 
 ## Footnotes and references
 [^1]: [EAT-Lancet Commission 2025 report](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01201-2/fulltext), Page 5
@@ -40,3 +50,6 @@ Although recent and reliable data is missing, a rough analysis[^8] shows that on
 [^7]: See appendix 5, p13 of the EAT-Lancet Commission report
 [^8]: Based on [Our World in Data](https://ourworldindata.org/grapher/per-capita-milk-consumption?tab=table) and sourced from FAO, Not corrected for age and gender distribution, among other lacunas.
 [^9]: This is what I can interpret from the appendices. 
+[^10]: [EAT-Lancet Commission 2025 report](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01201-2/fulltext), Panel 7, p. 28
+[^11]: In most contexts and for most people. In some contexts, dairy herds are the only feasible source of protein. 
+[^12]: Especially because methane emissions from livestock, due to their high warming potential and shorter amospheric lifetime are an effective [emergency brake](https://methaneemergencybrake.org/) for the climate system.
