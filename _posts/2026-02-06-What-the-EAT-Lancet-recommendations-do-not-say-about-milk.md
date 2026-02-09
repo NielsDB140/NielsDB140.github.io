@@ -16,7 +16,7 @@ This is largely driven by the fact that the most unsustainable food group, red m
 
 In the food system, the livestock industry is the main driver of global heating, deforestation, pollution and biodiversity collapse. Therefore, for red meat, health and sustainability go hand in hand, and the point that the PHD is optimized around health and not around sustainability may amount to pedantry.
 
-## Milk and the limit of the health-sustainability exchangeability**
+## Milk and the limit of the health-sustainability exchangeability
 The story becomes less trivial for milk. The recommended daily intake is 250 g/day with a range of 0-500 g/day. This means that a life without milk can be healthy, but consuming up to a half kilogram per day can be too[^4]. A glass of milk can be part of a healthy diet.
 
 However, from an environmental perspective, the lower end of this 0-500g range will undoubtedly be preferable in most contexts. 
