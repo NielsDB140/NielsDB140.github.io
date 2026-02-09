@@ -4,7 +4,10 @@ title: "What the EAT-Lancet recommendations (do not) say about milk"
 status: development
 published: false
 ---
+Since its conception in 2019, the Planetary Health Diet (PHD) by the EAT-Lancet Commission has emerged as the ultimate yardstick of dietary advice. In a context where 27% of annual deaths worldwide are caused by unhealthy eating[^1], and 30% of greenhouse gas emissions are caused by the food system[^2], scientifically rigorous guidance on healthy and sustainable food is more urgent than ever. 
 
-The Planetary Health Diet (PHD) is the flagship output of the EAT-Lancet Commission, and has gained widespread endorsement, from academia to industry and from NGOs to governmental food authorities1. Most people know it as the sustainable diet, able to feed a growing global population in a healthy way. The food system is responsible for 30% of global greenhouse gas emissions and constitutes the dominant driver behind biodiversity collapse, water pollution and a range of other planetary safety issues. To many, the PHD is seen as clear guidance on what to eat to stay within planetary boundaries.
 
 --- 
+## Footnotes
+[^1]: test
+[^2]: test
