@@ -5,11 +5,12 @@ status: publish
 published: true
 ---
 
+The Planetary Health Diet allows for large amounts of milk consumption, seemingly suggesting that milk is an integral part of a sustainable diet. This blogpost dives into what the Planetary Health Diet is, how it is commonly misunderstood, and why it leaves room for much more
 
-## A health diet with an environmental bycatch
+## A healthy diet with an environmental bycatch
 Since its conception in 2019, the Planetary Health Diet (PHD) by the EAT-Lancet Commission has emerged as the ultimate yardstick of dietary advice. In a context where 27% of annual deaths worldwide are caused by unhealthy eating[^1], and 30% of greenhouse gas emissions are caused by the food system[^2], scientifically rigorous guidance on healthy and sustainable food is more urgent than ever. 
 
-However, despite its confusion-inducing name, the PHD was not developed or optimized around sustainability or planetary boundaries. It was created by a team of world-leading *health* experts, and the resulting dietary recommendations are only derived from direct impacts on *human health* (and not from impacts on the environment). The guiding principle in the development of the PHD was the minimization of illness and mortality, not the minimization of emissions, pollution and land use.
+However, despite its confusing name, the PHD was not developed or optimized around sustainability or planetary boundaries. It was created by a team of [world-leading *health* experts](https://eatforum.org/eat-lancet/lancet-commissioners/), and the resulting dietary recommendations are only derived from direct impacts on *human health* (and not from impacts on the environment). The guiding principle in the development of the PHD was the minimization of illness and mortality, not the minimization of emissions, pollution, and land use.
 
 Still, the message behind the PHD is that health and sustainability go hand in hand. And indeed, in the 2025 update by the EAT-Lancet Commission, no less then ten economic models and a dietary impact model convincingly demonstrate that a world in which we all eat according to the PHD[^3] will have lower emissions, lower water pollution and extraction, and lower rates of biodiversity loss. 
 
@@ -18,9 +19,7 @@ This is largely driven by the fact that the most unsustainable food group, red m
 In the food system, the livestock industry is the main driver of global heating, deforestation, pollution and biodiversity collapse. Therefore, for red meat, health and sustainability go hand in hand, and the point that the PHD is optimized around health and not around sustainability may amount to pedantry.
 
 ## Milk and the limit of the health-sustainability exchangeability
-The story becomes less trivial for milk. The recommended daily intake is 250 g/day with a range of 0-500 g/day. This means that a life without milk can be healthy, but consuming up to a half kilogram per day can be too[^4]. A glass of milk can be part of a healthy diet.
-
-However, from an environmental perspective, the lower end of this 0-500g range will undoubtedly be preferable in most contexts. 
+The story becomes less trivial for milk. The recommended daily intake is 250 g/day with a range of 0-500 g/day. This means that a life without milk can be healthy, but consuming up to a half kilogram per day can be too[^4]. A glass of milk can be part of a healthy diet. However, from an environmental perspective, the lower end of this 0-500g range will undoubtedly be preferable in most contexts. 
 
 The correlation between health and sustainability does not hold for dairy. If the 250 g/day target would be adopted globally, this would result in an increase in global milk consumption and associated livestock numbers. In fact, many parts of the world, notably East Asia, do not traditionally consume milk. Around 65-70% of people globally are lactose-intolerant[^5]. Increasing milk intake in these places and for these people to 250 g/day is not going to be helpful in meeting climate and environmental targets.
 
