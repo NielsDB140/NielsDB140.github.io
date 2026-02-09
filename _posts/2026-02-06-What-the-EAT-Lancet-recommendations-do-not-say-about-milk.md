@@ -27,6 +27,7 @@ Luckily, and contrary to some voices in the dairy industry lobby[^6], the EAT-La
 
 Although recent and reliable data is missing, a rough analysis[^8] shows that only 40 countries have an average per-capita milk consumption of more than 500 g/day. When the EAT-Lancet researchers estimate the environmental benefits of a dietary shift, for milk, a reduction is only assumed for those 40 countries, and only to the 500 g/day upper limit[^9]. 
 
+<img src="/assets/img/Average_milk_consumption.png" title="Countries where average milk consumption per capita exceeds 500 g/day" alt="Countries where average milk consumption per capita exceeds 500 g/day." style="display: block; margin: auto auto auto 0;" />
 
 --- 
 ## Footnotes and references
