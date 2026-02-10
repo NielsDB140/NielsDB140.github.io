@@ -29,7 +29,7 @@ This is apparent from the assumptions used to calculate the environmental impact
 
 Although recent and reliable data is missing, a rough analysis[^9] shows that only 40 countries have an average per-capita milk consumption of more than 500 g/day. When the EAT-Lancet researchers estimate the environmental benefits of a dietary shift, for milk, a reduction is only assumed for those 40 countries, and only to the 500 g/day upper limit[^10]. 
 
-<img src="/assets/img/Average_milk_consumption.png" title="Countries where average milk consumption per capita exceeds 500 g/day" alt="Countries where average milk consumption per capita exceeds 500 g/day." style="display: block; margin: auto auto auto 0;" />
+<img src="/assets/img/Average_milk_consumption.png" title="Countries where average milk supply per capita exceeds 500 g/day" alt="Countries where average milk supply per capita exceeds 500 g/day." style="display: block; margin: auto auto auto 0;" />
 
 This severely downplays the potential of a shift away from dairy. By EAT-Lancet’s own calculations, the global dairy herd would shrink by only 4%[^11]. Further reductions are certainly possible, but because these would be health-neutral, they are not considered in the Commission’s analysis (although they are hinted at as a theoretical mitigation option on page 18). 
 
@@ -54,3 +54,7 @@ Second, the PHD is better for the environment, but *better* is not the same as *
 [^11]: [EAT-Lancet Commission 2025 report](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01201-2/fulltext), Panel 7, p. 28
 [^12]: In most contexts and for most people. In some contexts, dairy herds are the only feasible source of protein. 
 [^13]: Especially because methane emissions from livestock, due to their high warming potential and shorter amospheric lifetime are an effective [emergency brake](https://methaneemergencybrake.org/) for the climate system.
+
+---
+**Edits**
+Fixed footnote 4 and image caption to better reflect the data source
