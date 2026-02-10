@@ -44,7 +44,7 @@ Second, the PHD is better for the environment, but *better* is not the same as *
 [^1]: [EAT-Lancet Commission 2025 report](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01201-2/fulltext), Page 5
 [^2]: Crippa et al. (2021). Food systems are responsible for a third of global anthropogenic GHG emissions. [Nature Food](https://www.nature.com/articles/s43016-021-00225-9)
 [^3]: Combined with a host of improved agricultural and supply chain practices
-[^4]: The global average milk supply per capita is 225 g/day. In te Netherlands, adults eat 334 g/day on average (data: [Our World in Data](https://ourworldindata.org/grapher/per-capita-milk-consumption?tab=table))
+[^4]: The global average milk supply per capita is 225 g/day. In te Netherlands, adults eat 723 g/day on average (data: [Our World in Data](https://ourworldindata.org/grapher/per-capita-milk-consumption?tab=table), although different sources vary in their estimates
 [^5]: Bayless et al. 2017. Lactase Non-persistence and Lactose Intolerance. [Current Gastroenterology Reports](https://link.springer.com/article/10.1007/s11894-017-0558-9)
 [^6]: See for example the [response](https://www.fil-idf.org/wp-content/uploads/2019/01/IDF-GDP-press-release-on-EAT-report_final-1.pdf) to the 2019 EAT-Lancet report by the International Dairy Federation and the Global Dairy Platform claiming that EAT-Lancet proves that dairy "contributes to sustainable diets"
 [^7]: Harwatt et al., 2024. Options for a Paris aligned livestock sector. [Harvard Law School](https://animal.law.harvard.edu/wp-content/uploads/Paris-compliant-livestock-report.pdf)
