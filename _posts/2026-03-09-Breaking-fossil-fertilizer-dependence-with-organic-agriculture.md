@@ -10,16 +10,10 @@ We urgently need to get fossil fuels out of our food system. Our reliance on gas
 Meanwhile, organic farmers have optimized a largely fossil-free form of agriculture for decades. Their agro-ecological know-how, combined with a shift to more plant-based diets, are under-recognized solutions towards a fossil-free world.
 
 ## We grow food with fossil fuels
-Synthetic nitrogen fertilizer is made in a highly energy-intensive process, where fossil methane is used both as a fuel and as a feedstock. This causes 2% of global greenhouse gas emissions and uses about 5% of global fossil gas supply (CIEL, 2022). On top of that, when fertilizer is applied on croplands, this emits high amounts of nitrous oxide (N~2~O), a greenhouse gas 300 times more potent than CO~2~ (Chrobak, 2021). This makes fertilizer production in its current form incompatible with a fossil-free world.
+Synthetic nitrogen fertilizer is made in a highly energy-intensive process, where fossil methane is used both as a fuel and as a feedstock. This causes 2% of global greenhouse gas emissions and uses about 5% of global fossil gas supply (CIEL, 2022). On top of that, when fertilizer is applied on croplands, this emits high amounts of nitrous oxide (N<sub>2</sub>), a greenhouse gas 300 times more potent than CO<sub>2</sub> (Chrobak, 2021). This makes fertilizer production in its current form incompatible with a fossil-free world.
 
 {: .box-note}
-Synthetic nitrogen fertilizer production involves a chemical procedure to
-turn the abundantly available nitrogen in the atmosphere (N~2~) into
-ammonia (NH~3~). In this process, hydrogen (H~2~) is   required.
-Because hydrogen does not occur naturally on earth, it is instead created
-from methane (CH~4~), which is fossil gas, acting as both heating fuel and
-ingredient. The resulting hydrogen is then combined with the nitrogen
-occurring abundantly in the atmosphere (N~2~) to create ammonia (NH~3~).
+Synthetic nitrogen fertilizer production involves a chemical procedure to turn the abundantly available nitrogen in the atmosphere (N<sub>2</sub>) into ammonia (NH<sub>3</sub>). In this process, hydrogen (H<sub>2</sub>) is required. Because hydrogen does not occur naturally on earth, it is instead created from methane (CH<sub>4</sub>), which is fossil gas, acting as both heating fuel and ingredient. The resulting hydrogen is then combined with the nitrogen occurring abundantly in the atmosphere (N<sub>2</sub>) to create ammonia (NH<sub>3</sub>).
 
 
 For a chance to stay within safe climate limits, we need to reduce emissions urgently and leave a majority of known fossil fuel reserves in the ground (Welsby et al. 2021). This creates a huge challenge for agriculture: Conventional, chemical agriculture runs on fossil‑derived synthetic fertilizer. To keep global warming within safe limits—and to leave the bulk of known fossil reserves underground— agriculture has to wean itself of fossil fuels.
