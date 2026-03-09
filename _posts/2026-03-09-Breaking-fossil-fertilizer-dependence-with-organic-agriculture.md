@@ -12,8 +12,15 @@ Meanwhile, organic farmers have optimized a largely fossil-free form of agricult
 ## We grow food with fossil fuels
 Synthetic nitrogen fertilizer is made in a highly energy-intensive process, where fossil methane is used both as a fuel and as a feedstock. This causes 2% of global greenhouse gas emissions and uses about 5% of global fossil gas supply (CIEL, 2022). On top of that, when fertilizer is applied on croplands, this emits high amounts of nitrous oxide (N~2~O), a greenhouse gas 300 times more potent than CO~2~ (Chrobak, 2021). This makes fertilizer production in its current form incompatible with a fossil-free world.
 
-{: .box-success}
-Synthetic nitrogen fertilizer production involves a chemical procedure to turn the abundantly available nitrogen in the atmosphere (N~2~) into ammonia (NH~3~). In this process, hydrogen (H~2~) is   required. Because hydrogen does not occur naturally on earth, it is instead created from methane (CH~4~), which is fossil gas, acting as both heating fuel and ingredient. The resulting hydrogen is   then combined with the nitrogen occurring abundantly in the atmosphere (N~2~) to create ammonia (NH~3~).
+```
+Synthetic nitrogen fertilizer production involves a chemical procedure to
+turn the abundantly available nitrogen in the atmosphere (N~2~) into
+ammonia (NH~3~). In this process, hydrogen (H~2~) is   required.
+Because hydrogen does not occur naturally on earth, it is instead created
+from methane (CH~4~), which is fossil gas, acting as both heating fuel and
+ingredient. The resulting hydrogen is then combined with the nitrogen
+occurring abundantly in the atmosphere (N~2~) to create ammonia (NH~3~).
+```
 
 For a chance to stay within safe climate limits, we need to reduce emissions urgently and leave a majority of known fossil fuel reserves in the ground (Welsby et al. 2021). This creates a huge challenge for agriculture: Conventional, chemical agriculture runs on fossil‑derived synthetic fertilizer. To keep global warming within safe limits—and to leave the bulk of known fossil reserves underground— agriculture has to wean itself of fossil fuels.
 Beyond the climate imperative, a fossil-reliant food system ties food prices to gas prices, leading to instability and food insecurity (ref). The current closure of the Strait of Hormuz is choking off a major supply line of both gas and synthetic fertilizer. This is already leading to a spike in fertilizer prices, which will lead to higher food prices and, ultimately, to increased hunger (ref). This repeats the 2022 food price hike driven by gas supply disruptions due to the war on Ukraine, which drove millions into extreme hunger (ref). Rather than feeding the world, fossil fertilizers create inherent instabilities that undermine food security.
