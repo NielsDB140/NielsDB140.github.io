@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Breaking fossil fertilizer dependence with organic agriculture"
-status: development
-published: false
+status: publish
+published: true
 ---
 
 We urgently need to get fossil fuels out of our food system. Our reliance on gas-derived synthetic fertilizers to grow food is not only incompatible with a safe climate, it also exposes us to dangerous volatility and jeopardizes food security. Speculative promises of future technofixes by the fertilizer industry fail to offer feasible solutions and tend to swap one problem fur another. 
