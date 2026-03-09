@@ -9,6 +9,10 @@ We urgently need to get fossil fuels out of our food system. Our reliance on gas
 
 Meanwhile, organic farmers have optimized a largely fossil-free form of agriculture for decades. Their agro-ecological know-how, combined with a shift to more plant-based diets, are under-recognized solutions towards a fossil-free world.
 
+{: .box-note}
+**Note:** This is a notification box.
+
+
 ## We grow food with fossil fuels
 Synthetic nitrogen fertilizer is made in a highly energy-intensive process, where fossil methane is used both as a fuel and as a feedstock. This causes 2% of global greenhouse gas emissions and uses about 5% of global fossil gas supply (CIEL, 2022). On top of that, when fertilizer is applied on croplands, this emits high amounts of nitrous oxide (N~2~O), a greenhouse gas 300 times more potent than CO~2~ (Chrobak, 2021). This makes fertilizer production in its current form incompatible with a fossil-free world.
 
