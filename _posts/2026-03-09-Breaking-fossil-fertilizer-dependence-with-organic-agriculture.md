@@ -12,7 +12,7 @@ Meanwhile, organic farmers have optimized a largely fossil-free form of agricult
 ## We grow food with fossil fuels
 Synthetic nitrogen fertilizer is made in a highly energy-intensive process, where fossil methane is used both as a fuel and as a feedstock. This causes 2% of global greenhouse gas emissions and uses about 5% of global fossil gas supply (CIEL, 2022). On top of that, when fertilizer is applied on croplands, this emits high amounts of nitrous oxide (N~2~O), a greenhouse gas 300 times more potent than CO~2~ (Chrobak, 2021). This makes fertilizer production in its current form incompatible with a fossil-free world.
 
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 4px;">
+<div style="background-color:  #cccccc; padding: 10px; border-radius: 4px;">
   Synthetic nitrogen fertilizer production involves a chemical procedure to turn the abundantly available nitrogen in the atmosphere (N~2~) into ammonia (NH~3~). In this process, hydrogen (H~2~) is   required. Because hydrogen does not occur naturally on earth, it is instead created from methane (CH~4~), which is fossil gas, acting as both heating fuel and ingredient. The resulting hydrogen is   then combined with the nitrogen occurring abundantly in the atmosphere (N~2~) to create ammonia (NH~3~).
 </div>
 
