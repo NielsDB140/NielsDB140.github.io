@@ -15,13 +15,19 @@ Synthetic nitrogen fertilizer is made in a highly energy-intensive process, wher
 {: .box-note}
 Synthetic nitrogen fertilizer production involves a chemical procedure to turn the abundantly available nitrogen in the atmosphere (N<sub>2</sub>) into ammonia (NH<sub>3</sub>). In this process, hydrogen (H<sub>2</sub>) is required. Because hydrogen does not occur naturally on earth, it is instead created from methane (CH<sub>4</sub>), which is fossil gas, acting as both heating fuel and ingredient. The resulting hydrogen is then combined with the nitrogen occurring abundantly in the atmosphere (N<sub>2</sub>) to create ammonia (NH<sub>3</sub>).
 
-
 For a chance to stay within safe climate limits, we need to reduce emissions urgently and leave a majority of known fossil fuel reserves in the ground (Welsby et al. 2021). This creates a huge challenge for agriculture: Conventional, chemical agriculture runs on fossil‑derived synthetic fertilizer. To keep global warming within safe limits—and to leave the bulk of known fossil reserves underground— agriculture has to wean itself of fossil fuels.
-Beyond the climate imperative, a fossil-reliant food system ties food prices to gas prices, leading to instability and food insecurity (ref). The current closure of the Strait of Hormuz is choking off a major supply line of both gas and synthetic fertilizer. This is already leading to a spike in fertilizer prices, which will lead to higher food prices and, ultimately, to increased hunger (ref). This repeats the 2022 food price hike driven by gas supply disruptions due to the war on Ukraine, which drove millions into extreme hunger (ref). Rather than feeding the world, fossil fertilizers create inherent instabilities that undermine food security.
-Technological wack-a-mole
+
+Beyond the climate imperative, a fossil-reliant food system ties food prices to gas prices, leading to instability and food insecurity (Duhalt et al. 2023). The current closure of the Strait of Hormuz is choking off a major supply line of both gas and synthetic fertilizer. This is already leading to a spike in fertilizer prices, which will lead to higher food prices and, ultimately, to increased hunger (The Guardian, 2026). This repeats the 2022 food price hike driven by gas supply disruptions due to the war on Ukraine, which drove millions into extreme hunger (Welsh, 2024). Rather than feeding the world, fossil fertilizers create inherent instabilities that undermine food security.
+
+## Technological wack-a-mole
 Faced with the reality that decarbonisation and a fossil fuel phaseout are both desirable and increasingly inevitable, the fertilizer industry is exploring alternatives, insofar as these alternatives do not undermine their basic business model. Three avenues are being explored to avoid the industry’s phase-down.
-First, blue hydrogen keeps the system tied to fossil gas, merely adding a carbon‑capture step. But even if CO₂ is captured, extracting, transporting and processing the gas still releases a lot of emissions (ref), and the potential to store captured carbon securely over the long term is vastly overestimated by industry (ref). Blue hydrogen sustains fossil dependence and cannot be scaled reliably, casting serious doubt on its promised benefits (ref). It is a solution inasmuch as a bucket is a solution to a leaky roof (and in this analogy, it's one bucket and multiple leaks).
-The second proposal is the use of green hydrogen. This is a fossil-free technology, as the hydrogen is no longer created from (fossil) methane, but instead from electrolysis using renewable energy. However, electrolysis is highly energy-intensive, and uses vast amounts of water. 
+
+First, **blue hydrogen** keeps the system tied to fossil gas, but captures and stores that emitted CO<sub>2</sub>. But even if CO<sub>2</sub> is captured, extracting, transporting and processing the gas still releases a lot of emissions (Howarth and Jabobson, 2021), and the potential to store captured carbon securely over the long term is vastly overestimated by industry (Gidden and Rogelj, 2025). Blue hydrogen sustains fossil dependence and cannot be scaled reliably, casting serious doubt on its promised benefits (Martin-Roberts et al., 2021). It is a solution inasmuch as a bucket is a solution to a leaky roof (and in this analogy, it's one bucket and multiple leaks).
+
+The second proposal is the use of **green hydrogen**. This is a fossil-free technology, as the hydrogen is no longer created from (fossil) methane, but instead from electrolysis using renewable energy. However, electrolysis is highly energy-intensive, and uses vast amounts of water.
+
+
+{: .box-note}
 To generate the current supply of synthetic nitrogen fertilizer (conservatively estimated at around 100 million tonnes of ammonia per year, ref), at an estimated energy requirement of 12000 kWh ton-1 (ref), would require 1.2 billion kWh yr-1 of electricity. This is more than half of current global solar power generation, and roughly half of global wind power generation (ref). Note that green hydrogen is the aspirational cornerstone of decarbonization for multiple other industries as well, including aviation and steel production. 
 
 The required power generation to generate all current synthetic fertilizer production to green hydrogen, compared with current global renewable power generation. Own estimation based on sources above, renewables data: Our World in Data
@@ -50,5 +56,10 @@ Necessity is the mother of progress. As long as we allow the fertilizer industry
 ## References
 Chrobak, 2021. The world's forgotten greenhouse gas. [BBC](https://www.bbc.com/future/article/20210603-nitrous-oxide-the-worlds-forgotten-greenhouse-gas)
 CIEL, 2022. Fossils, Fertilizers, and False Solutions: How Laundering Fossil Fuels in Agrochemicals Puts the Climate and the Planet at Risk. [Center for International Environmental Law](https://www.ciel.org/reports/fossil-fertilizers/)
-
-Welsby et al. 2021. Unextractable fossil fuels in a 1.5 °C world. [Nature](https://www.nature.com/articles/s41586-021-03821-8).
+Duhalt et al., 2023. Fertilizer Woes at the Energy-Food Nexus. [Energy Explained](https://www.energypolicy.columbia.edu/fertilizer-woes-at-the-energy-food-nexus/), Columbia University
+The Guardian, 2026. ‘A big burden for farmers’: Gulf shipping crisis threatens food price shoc. The Guardian, [March 5, 2026](khttps://www.theguardian.com/business/2026/mar/05/big-burden-for-farmers-gulf-shipping-crisis-threatens-food-price-shock)
+Gidden & Rogelj, 2025. How the role of carbon storage has been hugely overestimated. [Carbon Brief](https://www.carbonbrief.org/guest-post-how-the-role-of-carbon-storage-has-been-hugely-overestimated/) 
+Howarth & Jacobson, 2021 How green is blue hydrogen? [Energy Sci Eng](https://doi.org/10.1002/ese3.956).
+Martin-Roberts et al., 2021. Carbon capture and storage at the end of a lost decade. [One Earth](https://www.sciencedirect.com/science/article/pii/S2590332221005418)
+Welsby et al., 2021. Unextractable fossil fuels in a 1.5 °C world. [Nature](https://www.nature.com/articles/s41586-021-03821-8).
+Welsh, 2024. Russia, Ukraine, and Global Food Security: A Two-Year Assessment. [Center for Strategic and International Studies](https://www.csis.org/analysis/russia-ukraine-and-global-food-security-two-year-assessment)
