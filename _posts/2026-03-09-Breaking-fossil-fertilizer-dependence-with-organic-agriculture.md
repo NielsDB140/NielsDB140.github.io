@@ -68,19 +68,35 @@ Necessity is the mother of progress. As long as we allow the fertilizer industry
 
 ## References
 Barbieri et al., 2021. Global option space for organic agriculture is delimited by nitrogen availability. [Nature Food](https://www.nature.com/articles/s43016-021-00276-y)
+
 Chrobak, 2021. The world's forgotten greenhouse gas. [BBC](https://www.bbc.com/future/article/20210603-nitrous-oxide-the-worlds-forgotten-greenhouse-gas)
+
 CIEL, 2022. Fossils, Fertilizers, and False Solutions: How Laundering Fossil Fuels in Agrochemicals Puts the Climate and the Planet at Risk. [Center for International Environmental Law](https://www.ciel.org/reports/fossil-fertilizers/)
+
 Duhalt et al., 2023. Fertilizer Woes at the Energy-Food Nexus. [Energy Explained](https://www.energypolicy.columbia.edu/fertilizer-woes-at-the-energy-food-nexus/), Columbia University
+
 The Guardian, 2026. ‘A big burden for farmers’: Gulf shipping crisis threatens food price shoc. The Guardian, [March 5, 2026](khttps://www.theguardian.com/business/2026/mar/05/big-burden-for-farmers-gulf-shipping-crisis-threatens-food-price-shock)
+
 Gidden & Rogelj, 2025. How the role of carbon storage has been hugely overestimated. [Carbon Brief](https://www.carbonbrief.org/guest-post-how-the-role-of-carbon-storage-has-been-hugely-overestimated/) 
+
 Greenpeace, 2019. Over 71% of EU farmland dedicated to meat and dairy, new research. [Greenpeace European Unit](https://www.greenpeace.org/eu-unit/issues/nature-food/1807/71-eu-farmland-meat-dairy/)
-Howarth & Jacobson, 2021 How green is blue hydrogen? [Energy Sci Eng](https://doi.org/10.1002/ese3.956).
+
+Howarth & Jacobson, 2021 How green is blue hydrogen? [Energy Sci Eng](https://doi.org/10.1002/ese3.956)
+
 Magnolo et al., 2024. Biomethane from manure in the RePowerEU: A critical perspective on the scale-up of renewable energy production from the livestock sector. [Energy Research & Social Science](https://www.sciencedirect.com/science/article/abs/pii/S2214629624003840)
+
 Martin-Roberts et al., 2021. Carbon capture and storage at the end of a lost decade. [One Earth](https://www.sciencedirect.com/science/article/pii/S2590332221005418)
+
 Menegat et al., 2022. Greenhouse gas emissions from global production and use of nitrogen synthetic fertilisers in agriculture. [Scientific Reports](https://www.nature.com/articles/s41598-022-18773-w)
+
 Mingolla & Rosa, 2025. Low-carbon ammonia production is essential for resilient and sustainable agriculture. [Nature Food](https://www.nature.com/articles/s43016-025-01125-y)
-Welsby et al., 2021. Unextractable fossil fuels in a 1.5 °C world. [Nature](https://www.nature.com/articles/s41586-021-03821-8).
+
+Welsby et al., 2021. Unextractable fossil fuels in a 1.5 °C world. [Nature](https://www.nature.com/articles/s41586-021-03821-8)
+
 Welsh, 2024. Russia, Ukraine, and Global Food Security: A Two-Year Assessment. [Center for Strategic and International Studies](https://www.csis.org/analysis/russia-ukraine-and-global-food-security-two-year-assessment)
+
 Morgan, 2025. Green hydrogen is not a silver bullet to decarbonize the fertilizer industry. [Clean Energy Group](https://www.cleanegroup.org/green-hydrogen-fertilizer-industry/)
+
 Viglione, 2022. What does the world’s reliance on fertilisers mean for climate change? [Carbon Brief](https://www.carbonbrief.org/qa-what-does-the-worlds-reliance-on-fertilisers-mean-for-climate-change)
+
 Winiwarter et al., 2018. Technical opportunities to reduce global anthropogenic emissions of nitrous oxide. [Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/aa9ec9#erlaa9ec9s6)
