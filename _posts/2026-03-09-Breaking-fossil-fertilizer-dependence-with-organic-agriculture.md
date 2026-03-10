@@ -28,9 +28,7 @@ The second proposal is the use of **green hydrogen**. This is a fossil-free tech
 
 
 {: .box-note}
-To generate the current supply of synthetic nitrogen fertilizer (conservatively estimated at around 100 million tonnes of ammonia per year, ref), at an estimated energy requirement of 12000 kWh ton-1 (ref), would require 1.2 billion kWh yr-1 of electricity. This is more than half of current global solar power generation, and roughly half of global wind power generation (ref). Note that green hydrogen is the aspirational cornerstone of decarbonization for multiple other industries as well, including aviation and steel production. 
-
-<img src="/assets/img/power_comp_greenhydro.png" title="Comparing energy needs for green hydrogren-based fertilizer with current power generation of renwables" alt="Comparing energy needs for green hydrogren-based fertilizer with current power generation of renwables" style="display: block; margin: auto auto auto 0;" />
+To generate the current supply of synthetic nitrogen fertilizer (conservatively estimated at around 100 million tonnes of ammonia per year, ref), at an estimated energy requirement of 12000 kWh ton-1 (ref), would require 1.2 billion kWh yr-1 of electricity. This is more than half of current global solar power generation, and roughly half of global wind power generation (ref). Note that green hydrogen is the aspirational cornerstone of decarbonization for multiple other industries as well, including aviation and steel production. <img src="/assets/img/power_comp_greenhydro.png" title="Comparing energy needs for green hydrogren-based fertilizer with current power generation of renwables" alt="Comparing energy needs for green hydrogren-based fertilizer with current power generation of renwables" style="display: block; margin: auto auto auto 0;" />
 
 
 The required power generation to generate all current synthetic fertilizer production to green hydrogen, compared with current global renewable power generation. Own estimation based on sources above, renewables data: Our World in Data
