@@ -47,25 +47,33 @@ There is a sense of defeatism in the discourse around synthetic fertilizers. The
 
 Certainly, increased yields have allowed us to produce more crops, and expand agriculture into areas with nutrient-poor soils. However, much of this added production is used to feed livestock, not humans. Three quarters of nitrogen added to croplands is used to produce animal feed, not human food (Menegat et al., 2022).
 
+<img src="/assets/img/circle_nitro_plot.png" title="Nitrogen application for feed or food production" alt="Nitrogen application for feed or food production" style="display: block; margin: auto auto auto 0;" />
+
 In the United States, half of fertilizer is applied to grow maize, and in New Zealand, 90% is used on grassland. The availability of fertilizer allowed some parts of the world to develop a wildly inefficient food system, maintaining a livestock herd that would be impossible to feed without fertilizer. Seen this way, synthetic fertilizer is a chief enabler of livestock emissions, making a decrease in livestock numbers a double win for the climate (Viglione, 2022).
 
-On the bright side, this means that a large chunk of our fertilizer consumption can be avoided by simply switching to a healthy diet low in animal products. In the European Union, for example, about 72 % of agricultural land is used for meat and dairy production ( ref). If that land were redirected toward growing food for people, we could abandon the ultra‑intensive monocultures that rely on heavy fertiliser use and instead adopt lower‑input, organic farming practices.
-Organic agriculture is a climate solution
+On the bright side, this means that a large chunk of our fertilizer consumption can be avoided by simply switching to a healthy diet low in animal products. In the European Union, for example, about 72 % of agricultural land is used for meat and dairy production (Greenpeace, 2019). If that land were redirected toward growing food for people, we could abandon the ultra‑intensive monocultures that rely on heavy fertiliser use and instead adopt lower‑input, organic farming practices.
+
+## Organic agriculture is a climate solution
 Even deeper cuts in fertilizer use can be achieved by expanding and further innovating organic agriculture. The integration of livestock and cropland farming, the use of crop rotations, and improved soil management allow farmers to grow crops without fossil-based fertilizers. 
+
 Organic agriculture is often scoffed at for being overly land-hungry, owing to its somewhat lower yields. At first glance, that could seem to threaten natural habitats and exacerbate climate pressures. Yet because it avoids fossil-based substances and the significant emissions associated with their production and use, organic agriculture has major (and often underappreciated) climate benefits. When paired with dietary shifts, the yield gap can be closed without expanding farmland. In this way, organic farming becomes a cornerstone of a truly fossil‑free food system and a powerful climate‑mitigation strategy.
-The (to my knowledge) most nuanced research on the potential of organic agriculture (ref) suggests that 60% of global agriculture could be switched to organic management (compared to 2% currently, ref) without jeopardizing global food sufficiency, when combined with dietary changes and cuts in food waste. Further innovation, notably around closing the nitrogen cycle and improving crop rotations, may allow for further cuts in synthetic fertilizer use. 
-Closing thoughts
+
+{: .box-note}
+The (to my knowledge) most nuanced research on the potential of organic agriculture (Barbieri et al., 2021) suggests that 60% of global agriculture could be switched to organic management (compared to 2% currently) without jeopardizing global food sufficiency, when combined with dietary changes and cuts in food waste. Further innovation, notably around closing the nitrogen cycle and improving crop rotations, may allow for further cuts in synthetic fertilizer use. 
+
+## Closing thoughts
 Organic agriculture is not a silver bullet solution, and any transition to organic agriculture needs careful planning and strong governance. Overhauling our diets and farming methods is by no means easy. However, in contrast to the pie-in-the-sky proposals of the fertilizer industry, it is technically feasible, relatively cheap, and tested at scale. 
+
 Necessity is the mother of progress. As long as we allow the fertilizer industry to hijack the option space for the future of farming, we fail to give true alternatives fertile ground to thrive. But when we acknowledge that the future will need to be largely free of synthetic fertilizers, we can build a fossil-free food system.
 
-## Footnotes
-
 ## References
+Barbieri et al., 2021. Global option space for organic agriculture is delimited by nitrogen availability. [Nature Food](https://www.nature.com/articles/s43016-021-00276-y)
 Chrobak, 2021. The world's forgotten greenhouse gas. [BBC](https://www.bbc.com/future/article/20210603-nitrous-oxide-the-worlds-forgotten-greenhouse-gas)
 CIEL, 2022. Fossils, Fertilizers, and False Solutions: How Laundering Fossil Fuels in Agrochemicals Puts the Climate and the Planet at Risk. [Center for International Environmental Law](https://www.ciel.org/reports/fossil-fertilizers/)
 Duhalt et al., 2023. Fertilizer Woes at the Energy-Food Nexus. [Energy Explained](https://www.energypolicy.columbia.edu/fertilizer-woes-at-the-energy-food-nexus/), Columbia University
 The Guardian, 2026. ‘A big burden for farmers’: Gulf shipping crisis threatens food price shoc. The Guardian, [March 5, 2026](khttps://www.theguardian.com/business/2026/mar/05/big-burden-for-farmers-gulf-shipping-crisis-threatens-food-price-shock)
 Gidden & Rogelj, 2025. How the role of carbon storage has been hugely overestimated. [Carbon Brief](https://www.carbonbrief.org/guest-post-how-the-role-of-carbon-storage-has-been-hugely-overestimated/) 
+Greenpeace, 2019. Over 71% of EU farmland dedicated to meat and dairy, new research. [Greenpeace European Unit](https://www.greenpeace.org/eu-unit/issues/nature-food/1807/71-eu-farmland-meat-dairy/)
 Howarth & Jacobson, 2021 How green is blue hydrogen? [Energy Sci Eng](https://doi.org/10.1002/ese3.956).
 Magnolo et al., 2024. Biomethane from manure in the RePowerEU: A critical perspective on the scale-up of renewable energy production from the livestock sector. [Energy Research & Social Science](https://www.sciencedirect.com/science/article/abs/pii/S2214629624003840)
 Martin-Roberts et al., 2021. Carbon capture and storage at the end of a lost decade. [One Earth](https://www.sciencedirect.com/science/article/pii/S2590332221005418)
