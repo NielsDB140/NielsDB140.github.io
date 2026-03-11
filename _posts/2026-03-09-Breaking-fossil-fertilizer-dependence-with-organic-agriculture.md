@@ -28,7 +28,7 @@ The second proposal is the use of **green hydrogen**. This is a fossil-free tech
 
 
 {: .box-note}
-To generate the current supply of synthetic nitrogen fertilizer (conservatively estimated at around 100 million tonnes of ammonia per year, ref), at an estimated energy requirement of 12000 kWh ton-1 (ref), would require 1.2 billion kWh yr-1 of electricity. This is more than half of current global solar power generation, and roughly half of global wind power generation (ref). Note that green hydrogen is the aspirational cornerstone of decarbonization for multiple other industries as well, including aviation and steel production. <p align="center"><img src="/assets/img/power_comp_greenhydro.png" title="Comparing energy needs for green hydrogren-based fertilizer with current power generation of renwables" alt="Comparing energy needs for green hydrogren-based fertilizer with current power generation of renwables" style="display: block; margin: auto auto auto 0;" /> *The required power generation to generate all current synthetic fertilizer production to green hydrogen, compared with current global renewable power generation. Own estimation based on sources above, renewables data: [Our World in Data](https://ourworldindata.org/renewable-energy)*
+To generate the current supply of synthetic nitrogen fertilizer (conservatively estimated at around 100 million tonnes of ammonia per year; FAO, 2019), at an estimated energy requirement of 12000 kWh ton-1 (Ghavam et al., 2021), would require 1.2 billion kWh yr-1 of electricity. This is more than half of current global solar power generation, and roughly half of global wind power generation (Ritchie et al., 2024). Note that green hydrogen is the aspirational cornerstone of decarbonization for multiple other industries as well, including aviation and steel production. <img src="/assets/img/power_comp_greenhydro.png" title="Comparing energy needs for green hydrogren-based fertilizer with current power generation of renwables" alt="Comparing energy needs for green hydrogren-based fertilizer with current power generation of renwables" style="display: block; margin: auto auto auto 0;" /> *The required power generation to generate all current synthetic fertilizer production to green hydrogen, compared with current global renewable power generation. Own estimation based on sources above, renewables data: [Our World in Data](https://ourworldindata.org/renewable-energy)*
 
 Switching to green hydrogen would require earmarking a significant part of current and future renewable capacity, only in the service of fertilizer production, and would therefore be in competition with other societal needs. Because conventional fertilizer plants cannot readily switch to green hydrogen, they need to be retrofitted or rebuilt, further increasing cost. Green hydrogen's role in fertilizer production will be limited at best.
 
@@ -75,11 +75,15 @@ CIEL, 2022. Fossils, Fertilizers, and False Solutions: How Laundering Fossil Fue
 
 Duhalt et al., 2023. Fertilizer Woes at the Energy-Food Nexus. [Energy Explained](https://www.energypolicy.columbia.edu/fertilizer-woes-at-the-energy-food-nexus/), Columbia University
 
-The Guardian, 2026. ‘A big burden for farmers’: Gulf shipping crisis threatens food price shoc. The Guardian, [March 5, 2026](khttps://www.theguardian.com/business/2026/mar/05/big-burden-for-farmers-gulf-shipping-crisis-threatens-food-price-shock)
+FAO, 2019. World fertilizer trends and outlook to 2022. [FAO](https://openknowledge.fao.org/server/api/core/bitstreams/42d5a668-f44c-4976-8540-8efdb0f4d17b/content)
+
+Ghavam et al., 2021. Sustainable Ammonia Production Processes. [Frontiers in Energy Research](https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2021.580808/full)
 
 Gidden & Rogelj, 2025. How the role of carbon storage has been hugely overestimated. [Carbon Brief](https://www.carbonbrief.org/guest-post-how-the-role-of-carbon-storage-has-been-hugely-overestimated/) 
 
 Greenpeace, 2019. Over 71% of EU farmland dedicated to meat and dairy, new research. [Greenpeace European Unit](https://www.greenpeace.org/eu-unit/issues/nature-food/1807/71-eu-farmland-meat-dairy/)
+
+The Guardian, 2026. ‘A big burden for farmers’: Gulf shipping crisis threatens food price shoc. The Guardian, [March 5, 2026](khttps://www.theguardian.com/business/2026/mar/05/big-burden-for-farmers-gulf-shipping-crisis-threatens-food-price-shock)
 
 Howarth & Jacobson, 2021 How green is blue hydrogen? [Energy Sci Eng](https://doi.org/10.1002/ese3.956)
 
@@ -90,6 +94,8 @@ Martin-Roberts et al., 2021. Carbon capture and storage at the end of a lost dec
 Menegat et al., 2022. Greenhouse gas emissions from global production and use of nitrogen synthetic fertilisers in agriculture. [Scientific Reports](https://www.nature.com/articles/s41598-022-18773-w)
 
 Mingolla & Rosa, 2025. Low-carbon ammonia production is essential for resilient and sustainable agriculture. [Nature Food](https://www.nature.com/articles/s43016-025-01125-y)
+
+Ritchie et al., 2024. Renewable Energy. [Our World in Data](https://ourworldindata.org/renewable-energy)
 
 Welsby et al., 2021. Unextractable fossil fuels in a 1.5 °C world. [Nature](https://www.nature.com/articles/s41586-021-03821-8)
 
