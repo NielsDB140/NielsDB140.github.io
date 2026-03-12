@@ -105,4 +105,5 @@ Morgan, 2025. Green hydrogen is not a silver bullet to decarbonize the fertilize
 
 Viglione, 2022. What does the world’s reliance on fertilisers mean for climate change? [Carbon Brief](https://www.carbonbrief.org/qa-what-does-the-worlds-reliance-on-fertilisers-mean-for-climate-change)
 
+
 Winiwarter et al., 2018. Technical opportunities to reduce global anthropogenic emissions of nitrous oxide. [Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/aa9ec9#erlaa9ec9s6)
